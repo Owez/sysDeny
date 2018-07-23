@@ -1,0 +1,11 @@
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\bin\Debug\sysDeny.exe.config
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\bin\Debug\sysDeny.exe
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\bin\Debug\sysDeny.pdb
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.csprojAssemblyReference.cache
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.Form1.resources
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.Properties.Resources.resources
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.csproj.GenerateResource.cache
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.csproj.CoreCompileInputs.cache
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.exe
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.pdb
+C:\Users\jilkc\Google Drive\Projects\C#\sysDeny\sysDeny\obj\Debug\sysDeny.FakeVirus.resources
